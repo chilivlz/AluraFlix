@@ -16,6 +16,7 @@ const cardsData = [
         link: "https://www.youtube.com/embed/PztCEdIJITY?si=hfEWd-LVzlUvP_qT",
         description: "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript."
     },
+    ,
     {
         id: 3,
         title: "¿Qué es JavaScript?",
